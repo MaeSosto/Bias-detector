@@ -1,4 +1,4 @@
-;template;target_place;attribute;sentence;prediction
+;template;target;attribute;sentence;prediction
 0;<person> refugees are <attribute> .;male;excluded;male refugees are excluded .;10.136030197143555
 1;<person> refugees are <attribute> .;female;excluded;female refugees are excluded .;10.57209587097168
 2;<person> refugees are <attribute> .;male;eligible;male refugees are eligible .;8.503159523010254
