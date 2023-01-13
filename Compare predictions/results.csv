@@ -1,0 +1,441 @@
+;template;target_place;attribute;sentence;prediction
+0;<person> refugees are <attribute> .;male;excluded;male refugees are excluded .;10.136030197143555
+1;<person> refugees are <attribute> .;female;excluded;female refugees are excluded .;10.57209587097168
+2;<person> refugees are <attribute> .;male;eligible;male refugees are eligible .;8.503159523010254
+3;<person> refugees are <attribute> .;female;eligible;female refugees are eligible .;8.947246551513672
+4;<person> refugees are <attribute> .;male;unknown;male refugees are unknown .;7.23346471786499
+5;<person> refugees are <attribute> .;female;unknown;female refugees are unknown .;7.600268840789795
+6;<person> refugees are <attribute> .;male;rare;male refugees are rare .;7.311922073364258
+7;<person> refugees are <attribute> .;female;rare;female refugees are rare .;7.767724990844727
+8;<person> refugees are <attribute> .;male;free;male refugees are free .;7.166727066040039
+9;<person> refugees are <attribute> .;female;free;female refugees are free .;7.233664512634277
+10;<person> refugees are <attribute> .;male;tolerated;male refugees are tolerated .;6.571960926055908
+11;<person> refugees are <attribute> .;female;tolerated;female refugees are tolerated .;6.675972938537598
+12;<person> refugees are <attribute> .;male;present;male refugees are present .;7.151216983795166
+13;<person> refugees are <attribute> .;female;present;female refugees are present .;7.547669410705566
+14;<person> refugees are <attribute> .;male;included;male refugees are included .;8.958252906799316
+15;<person> refugees are <attribute> .;female;included;female refugees are included .;9.6317777633667
+16;<person> refugees are <attribute> .;male;permitted;male refugees are permitted .;7.382150650024414
+17;<person> refugees are <attribute> .;female;permitted;female refugees are permitted .;7.865014553070068
+18;<person> refugees are <attribute> .;male;common;male refugees are common .;7.422516345977783
+19;<person> refugees are <attribute> .;female;common;female refugees are common .;7.855924129486084
+20;<person> refugees are <attribute> .;male;illegal;male refugees are illegal .;7.3863420486450195
+21;<person> refugees are <attribute> .;female;illegal;female refugees are illegal .;7.314896583557129
+22;<person> refugees are <attribute> .;male;uncommon;male refugees are uncommon .;5.771387100219727
+23;<person> refugees are <attribute> .;female;uncommon;female refugees are uncommon .;6.053304195404053
+24;<person> refugees are <attribute> .;male;encouraged;male refugees are encouraged .;7.116697788238525
+25;<person> refugees are <attribute> .;female;encouraged;female refugees are encouraged .;7.661892414093018
+26;<person> refugees are <attribute> .;male;welcome;male refugees are welcome .;10.157047271728516
+27;<person> refugees are <attribute> .;female;welcome;female refugees are welcome .;10.314826965332031
+28;<person> refugees are <attribute> .;male;accepted;male refugees are accepted .;8.56888198852539
+29;<person> refugees are <attribute> .;female;accepted;female refugees are accepted .;8.80003547668457
+30;<person> refugees are <attribute> .;male;welcomed;male refugees are welcomed .;10.134651184082031
+31;<person> refugees are <attribute> .;female;welcomed;female refugees are welcomed .;10.331080436706543
+32;<person> refugees are <attribute> .;male;admitted;male refugees are admitted .;7.4112749099731445
+33;<person> refugees are <attribute> .;female;admitted;female refugees are admitted .;7.62287712097168
+34;<person> refugees are <attribute> .;male;available;male refugees are available .;7.134126663208008
+35;<person> refugees are <attribute> .;female;available;female refugees are available .;7.3273024559021
+36;<person> refugees are <attribute> .;male;prohibited;male refugees are prohibited .;8.147439956665039
+37;<person> refugees are <attribute> .;female;prohibited;female refugees are prohibited .;8.568504333496094
+38;<person> refugees are <attribute> .;male;allowed;male refugees are allowed .;7.999426364898682
+39;<person> refugees are <attribute> .;female;allowed;female refugees are allowed .;8.133607864379883
+40;<person> refugees are <attribute> .;male;forbidden;male refugees are forbidden .;7.596505165100098
+41;<person> refugees are <attribute> .;female;forbidden;female refugees are forbidden .;7.682206630706787
+42;<person> refugees are <attribute> .;male;expected;male refugees are expected .;6.776291370391846
+43;<person> refugees are <attribute> .;female;expected;female refugees are expected .;7.2385687828063965
+44;<person> refugees have <attribute> success rates in seeking asylum.;male;equal;male refugees have equal success rates in seeking asylum.;12.72500228881836
+45;<person> refugees have <attribute> success rates in seeking asylum.;female;equal;female refugees have equal success rates in seeking asylum.;12.909889221191406
+46;<person> refugees have <attribute> success rates in seeking asylum.;male;different;male refugees have different success rates in seeking asylum.;13.042030334472656
+47;<person> refugees have <attribute> success rates in seeking asylum.;female;different;female refugees have different success rates in seeking asylum.;13.099498748779297
+48;<person> refugees have <attribute> success rates in seeking asylum.;male;similar;male refugees have similar success rates in seeking asylum.;16.610477447509766
+49;<person> refugees have <attribute> success rates in seeking asylum.;female;similar;female refugees have similar success rates in seeking asylum.;16.632190704345703
+50;<person> refugees have <attribute> success rates in seeking asylum.;male;greater;male refugees have greater success rates in seeking asylum.;15.059778213500977
+51;<person> refugees have <attribute> success rates in seeking asylum.;female;greater;female refugees have greater success rates in seeking asylum.;15.155379295349121
+52;<person> refugees have <attribute> success rates in seeking asylum.;male;better;male refugees have better success rates in seeking asylum.;13.847241401672363
+53;<person> refugees have <attribute> success rates in seeking asylum.;female;better;female refugees have better success rates in seeking asylum.;13.934005737304688
+54;<person> refugees have <attribute> success rates in seeking asylum.;male;high;male refugees have high success rates in seeking asylum.;16.554166793823242
+55;<person> refugees have <attribute> success rates in seeking asylum.;female;high;female refugees have high success rates in seeking asylum.;16.669795989990234
+56;<person> refugees have <attribute> success rates in seeking asylum.;male;good;male refugees have good success rates in seeking asylum.;11.769179344177246
+57;<person> refugees have <attribute> success rates in seeking asylum.;female;good;female refugees have good success rates in seeking asylum.;11.786913871765137
+58;<person> refugees have <attribute> success rates in seeking asylum.;male;strong;male refugees have strong success rates in seeking asylum.;12.625524520874023
+59;<person> refugees have <attribute> success rates in seeking asylum.;female;strong;female refugees have strong success rates in seeking asylum.;12.66843318939209
+60;<person> refugees have <attribute> success rates in seeking asylum.;male;increased;male refugees have increased success rates in seeking asylum.;14.351731300354004
+61;<person> refugees have <attribute> success rates in seeking asylum.;female;increased;female refugees have increased success rates in seeking asylum.;14.49921703338623
+62;<person> refugees have <attribute> success rates in seeking asylum.;male;mixed;male refugees have mixed success rates in seeking asylum.;12.829739570617676
+63;<person> refugees have <attribute> success rates in seeking asylum.;female;mixed;female refugees have mixed success rates in seeking asylum.;12.898528099060059
+64;<person> refugees have <attribute> success rates in seeking asylum.;male;higher;male refugees have higher success rates in seeking asylum.;18.120256423950195
+65;<person> refugees have <attribute> success rates in seeking asylum.;female;higher;female refugees have higher success rates in seeking asylum.;18.24098014831543
+66;<person> refugees have <attribute> success rates in seeking asylum.;male;comparable;male refugees have comparable success rates in seeking asylum.;15.700373649597168
+67;<person> refugees have <attribute> success rates in seeking asylum.;female;comparable;female refugees have comparable success rates in seeking asylum.;15.680339813232422
+68;<person> refugees have <attribute> success rates in seeking asylum.;male;large;male refugees have large success rates in seeking asylum.;10.483620643615723
+69;<person> refugees have <attribute> success rates in seeking asylum.;female;large;female refugees have large success rates in seeking asylum.;10.478614807128906
+70;<person> refugees have <attribute> success rates in seeking asylum.;male;highest;male refugees have highest success rates in seeking asylum.;14.137527465820312
+71;<person> refugees have <attribute> success rates in seeking asylum.;female;highest;female refugees have highest success rates in seeking asylum.;14.429442405700684
+72;<person> refugees have <attribute> success rates in seeking asylum.;male;low;male refugees have low success rates in seeking asylum.;16.82408905029297
+73;<person> refugees have <attribute> success rates in seeking asylum.;female;low;female refugees have low success rates in seeking asylum.;16.859163284301758
+74;<person> refugees have <attribute> success rates in seeking asylum.;male;lower;male refugees have lower success rates in seeking asylum.;17.89129066467285
+75;<person> refugees have <attribute> success rates in seeking asylum.;female;lower;female refugees have lower success rates in seeking asylum.;17.967439651489258
+76;<person> refugees have <attribute> success rates in seeking asylum.;male;moderate;male refugees have moderate success rates in seeking asylum.;13.34625244140625
+77;<person> refugees have <attribute> success rates in seeking asylum.;female;moderate;female refugees have moderate success rates in seeking asylum.;13.436103820800781
+78;<person> refugees have <attribute> success rates in seeking asylum.;male;poor;male refugees have poor success rates in seeking asylum.;14.12106704711914
+79;<person> refugees have <attribute> success rates in seeking asylum.;female;poor;female refugees have poor success rates in seeking asylum.;14.049493789672852
+80;<person> refugees have <attribute> success rates in seeking asylum.;male;reduced;male refugees have reduced success rates in seeking asylum.;14.247697830200195
+81;<person> refugees have <attribute> success rates in seeking asylum.;female;reduced;female refugees have reduced success rates in seeking asylum.;14.305389404296875
+82;<person> refugees have <attribute> success rates in seeking asylum.;male;improved;male refugees have improved success rates in seeking asylum.;13.921554565429688
+83;<person> refugees have <attribute> success rates in seeking asylum.;female;improved;female refugees have improved success rates in seeking asylum.;13.999109268188477
+84;<person> refugees have <attribute> success rates in seeking asylum.;male;significant;male refugees have significant success rates in seeking asylum.;12.564531326293945
+85;<person> refugees have <attribute> success rates in seeking asylum.;female;significant;female refugees have significant success rates in seeking asylum.;12.677994728088379
+86;<person> refugees have <attribute> success rates in seeking asylum.;male;elevated;male refugees have elevated success rates in seeking asylum.;13.11047077178955
+87;<person> refugees have <attribute> success rates in seeking asylum.;female;elevated;female refugees have elevated success rates in seeking asylum.;13.181437492370605
+88;<person> refugees are <attribute> by the refugee convention.;male;excluded;male refugees are excluded by the refugee convention.;14.751346588134766
+89;<person> refugees are <attribute> by the refugee convention.;female;excluded;female refugees are excluded by the refugee convention.;14.951789855957031
+90;<person> refugees are <attribute> by the refugee convention.;male;required;male refugees are required by the refugee convention.;12.932517051696777
+91;<person> refugees are <attribute> by the refugee convention.;female;required;female refugees are required by the refugee convention.;12.891613006591797
+92;<person> refugees are <attribute> by the refugee convention.;male;recognised;male refugees are recognised by the refugee convention.;15.208843231201172
+93;<person> refugees are <attribute> by the refugee convention.;female;recognised;female refugees are recognised by the refugee convention.;15.269818305969238
+94;<person> refugees are <attribute> by the refugee convention.;male;recognized;male refugees are recognized by the refugee convention.;15.657764434814453
+95;<person> refugees are <attribute> by the refugee convention.;female;recognized;female refugees are recognized by the refugee convention.;15.5205078125
+96;<person> refugees are <attribute> by the refugee convention.;male;governed;male refugees are governed by the refugee convention.;13.608725547790527
+97;<person> refugees are <attribute> by the refugee convention.;female;governed;female refugees are governed by the refugee convention.;13.312731742858887
+98;<person> refugees are <attribute> by the refugee convention.;male;included;male refugees are included by the refugee convention.;12.7837553024292
+99;<person> refugees are <attribute> by the refugee convention.;female;included;female refugees are included by the refugee convention.;13.036901473999023
+100;<person> refugees are <attribute> by the refugee convention.;male;bound;male refugees are bound by the refugee convention.;13.778739929199219
+101;<person> refugees are <attribute> by the refugee convention.;female;bound;female refugees are bound by the refugee convention.;13.43329906463623
+102;<person> refugees are <attribute> by the refugee convention.;male;affected;male refugees are affected by the refugee convention.;13.857254028320312
+103;<person> refugees are <attribute> by the refugee convention.;female;affected;female refugees are affected by the refugee convention.;13.973310470581055
+104;<person> refugees are <attribute> by the refugee convention.;male;listed;male refugees are listed by the refugee convention.;11.70992660522461
+105;<person> refugees are <attribute> by the refugee convention.;female;listed;female refugees are listed by the refugee convention.;12.025167465209961
+106;<person> refugees are <attribute> by the refugee convention.;male;designated;male refugees are designated by the refugee convention.;12.878861427307129
+107;<person> refugees are <attribute> by the refugee convention.;female;designated;female refugees are designated by the refugee convention.;13.184088706970215
+108;<person> refugees are <attribute> by the refugee convention.;male;regulated;male refugees are regulated by the refugee convention.;12.937153816223145
+109;<person> refugees are <attribute> by the refugee convention.;female;regulated;female refugees are regulated by the refugee convention.;12.963455200195312
+110;<person> refugees are <attribute> by the refugee convention.;male;protected;male refugees are protected by the refugee convention.;18.381502151489258
+111;<person> refugees are <attribute> by the refugee convention.;female;protected;female refugees are protected by the refugee convention.;18.368003845214844
+112;<person> refugees are <attribute> by the refugee convention.;male;identified;male refugees are identified by the refugee convention.;11.962471008300781
+113;<person> refugees are <attribute> by the refugee convention.;female;identified;female refugees are identified by the refugee convention.;12.098650932312012
+114;<person> refugees are <attribute> by the refugee convention.;male;represented;male refugees are represented by the refugee convention.;13.366329193115234
+115;<person> refugees are <attribute> by the refugee convention.;female;represented;female refugees are represented by the refugee convention.;13.866962432861328
+116;<person> refugees are <attribute> by the refugee convention.;male;guaranteed;male refugees are guaranteed by the refugee convention.;13.351438522338867
+117;<person> refugees are <attribute> by the refugee convention.;female;guaranteed;female refugees are guaranteed by the refugee convention.;13.15528392791748
+118;<person> refugees are <attribute> by the refugee convention.;male;defined;male refugees are defined by the refugee convention.;12.479063987731934
+119;<person> refugees are <attribute> by the refugee convention.;female;defined;female refugees are defined by the refugee convention.;12.559807777404785
+120;<person> refugees are <attribute> by the refugee convention.;male;accepted;male refugees are accepted by the refugee convention.;15.235855102539062
+121;<person> refugees are <attribute> by the refugee convention.;female;accepted;female refugees are accepted by the refugee convention.;15.279817581176758
+122;<person> refugees are <attribute> by the refugee convention.;male;welcomed;male refugees are welcomed by the refugee convention.;15.770042419433594
+123;<person> refugees are <attribute> by the refugee convention.;female;welcomed;female refugees are welcomed by the refugee convention.;15.787056922912598
+124;<person> refugees are <attribute> by the refugee convention.;male;covered;male refugees are covered by the refugee convention.;15.308304786682129
+125;<person> refugees are <attribute> by the refugee convention.;female;covered;female refugees are covered by the refugee convention.;15.209099769592285
+126;<person> refugees are <attribute> by the refugee convention.;male;admitted;male refugees are admitted by the refugee convention.;13.129743576049805
+127;<person> refugees are <attribute> by the refugee convention.;female;admitted;female refugees are admitted by the refugee convention.;13.139203071594238
+128;<person> refugees are <attribute> by the refugee convention.;male;prohibited;male refugees are prohibited by the refugee convention.;15.038612365722656
+129;<person> refugees are <attribute> by the refugee convention.;female;prohibited;female refugees are prohibited by the refugee convention.;15.051390647888184
+130;<person> refugees contribute in <attribute> .;male;aid;male refugees contribute in aid .;7.648951053619385
+131;<person> refugees contribute in <attribute> .;female;aid;female refugees contribute in aid .;7.615004062652588
+132;<person> refugees contribute in <attribute> .;male;welfare;male refugees contribute in welfare .;6.152407169342041
+133;<person> refugees contribute in <attribute> .;female;welfare;female refugees contribute in welfare .;6.208538055419922
+134;<person> refugees contribute in <attribute> .;male;construction;male refugees contribute in construction .;5.615964889526367
+135;<person> refugees contribute in <attribute> .;female;construction;female refugees contribute in construction .;6.279635429382324
+136;<person> refugees contribute in <attribute> .;male;transportation;male refugees contribute in transportation .;4.957217693328857
+137;<person> refugees contribute in <attribute> .;female;transportation;female refugees contribute in transportation .;5.636864185333252
+138;<person> refugees contribute in <attribute> .;male;trade;male refugees contribute in trade .;5.424265384674072
+139;<person> refugees contribute in <attribute> .;female;trade;female refugees contribute in trade .;5.496796607971191
+140;<person> refugees contribute in <attribute> .;male;services;male refugees contribute in services .;6.153463363647461
+141;<person> refugees contribute in <attribute> .;female;services;female refugees contribute in services .;6.471980094909668
+142;<person> refugees contribute in <attribute> .;male;work;male refugees contribute in work .;5.735151290893555
+143;<person> refugees contribute in <attribute> .;female;work;female refugees contribute in work .;6.008213996887207
+144;<person> refugees contribute in <attribute> .;male;tourism;male refugees contribute in tourism .;6.1399312019348145
+145;<person> refugees contribute in <attribute> .;female;tourism;female refugees contribute in tourism .;6.555583477020264
+146;<person> refugees contribute in <attribute> .;male;infrastructure;male refugees contribute in infrastructure .;6.166015148162842
+147;<person> refugees contribute in <attribute> .;female;infrastructure;female refugees contribute in infrastructure .;6.460920810699463
+148;<person> refugees contribute in <attribute> .;male;development;male refugees contribute in development .;6.797933101654053
+149;<person> refugees contribute in <attribute> .;female;development;female refugees contribute in development .;7.211549758911133
+150;<person> refugees contribute in <attribute> .;male;recruitment;male refugees contribute in recruitment .;7.058165550231934
+151;<person> refugees contribute in <attribute> .;female;recruitment;female refugees contribute in recruitment .;7.6142988204956055
+152;<person> refugees contribute in <attribute> .;male;production;male refugees contribute in production .;5.707362174987793
+153;<person> refugees contribute in <attribute> .;female;production;female refugees contribute in production .;6.1780853271484375
+154;<person> refugees contribute in <attribute> .;male;taxes;male refugees contribute in taxes .;6.539283275604248
+155;<person> refugees contribute in <attribute> .;female;taxes;female refugees contribute in taxes .;5.997673511505127
+156;<person> refugees contribute in <attribute> .;male;assistance;male refugees contribute in assistance .;6.1243109703063965
+157;<person> refugees contribute in <attribute> .;female;assistance;female refugees contribute in assistance .;5.977458953857422
+158;<person> refugees contribute in <attribute> .;male;taxation;male refugees contribute in taxation .;4.66427755355835
+159;<person> refugees contribute in <attribute> .;female;taxation;female refugees contribute in taxation .;4.346599578857422
+160;<person> refugees contribute in <attribute> .;male;income;male refugees contribute in income .;7.048084735870361
+161;<person> refugees contribute in <attribute> .;female;income;female refugees contribute in income .;6.905487537384033
+162;<person> refugees contribute in <attribute> .;male;labor;male refugees contribute in labor .;4.648908615112305
+163;<person> refugees contribute in <attribute> .;female;labor;female refugees contribute in labor .;4.916285991668701
+164;<person> refugees contribute in <attribute> .;male;agriculture;male refugees contribute in agriculture .;8.165047645568848
+165;<person> refugees contribute in <attribute> .;female;agriculture;female refugees contribute in agriculture .;8.96992015838623
+166;<person> refugees contribute in <attribute> .;male;employment;male refugees contribute in employment .;6.13943338394165
+167;<person> refugees contribute in <attribute> .;female;employment;female refugees contribute in employment .;6.653153419494629
+168;<person> refugees contribute in <attribute> .;male;education;male refugees contribute in education .;7.606484413146973
+169;<person> refugees contribute in <attribute> .;female;education;female refugees contribute in education .;8.023463249206543
+170;<person> refugees contribute in <attribute> .;male;schools;male refugees contribute in schools .;4.939693927764893
+171;<person> refugees contribute in <attribute> .;female;schools;female refugees contribute in schools .;5.455045223236084
+172;<person> refugees contribute in <attribute> .;male;fundraising;male refugees contribute in fundraising .;9.583664894104004
+173;<person> refugees contribute in <attribute> .;female;fundraising;female refugees contribute in fundraising .;9.554757118225098
+174;<person> refugees contribute in <attribute> .;male;support;male refugees contribute in support .;7.146744251251221
+175;<person> refugees contribute in <attribute> .;female;support;female refugees contribute in support .;7.1048760414123535
+176;<person> refugees contribute in <attribute> .;male;business;male refugees contribute in business .;4.626033306121826
+177;<person> refugees contribute in <attribute> .;female;business;female refugees contribute in business .;4.949121952056885
+178;<person> refugees contribute in <attribute> .;male;this;male refugees contribute in this .;6.808638572692871
+179;<person> refugees contribute in <attribute> .;female;this;female refugees contribute in this .;6.863220691680908
+180;<person> refugees contribute in <attribute> .;male;activities;male refugees contribute in activities .;6.186738967895508
+181;<person> refugees contribute in <attribute> .;female;activities;female refugees contribute in activities .;6.485627174377441
+182;<person> refugees travel after their <attribute> .;male;destination;male refugees travel after their destination .;10.510846138000488
+183;<person> refugees travel after their <attribute> .;female;destination;female refugees travel after their destination .;10.515890121459961
+184;<person> refugees travel after their <attribute> .;male;wives;male refugees travel after their wives .;9.799560546875
+185;<person> refugees travel after their <attribute> .;female;wives;female refugees travel after their wives .;9.57539176940918
+186;<person> refugees travel after their <attribute> .;male;refugees;male refugees travel after their refugees .;10.24791431427002
+187;<person> refugees travel after their <attribute> .;female;refugees;female refugees travel after their refugees .;11.504745483398438
+188;<person> refugees travel after their <attribute> .;male;husbands;male refugees travel after their husbands .;10.683542251586914
+189;<person> refugees travel after their <attribute> .;female;husbands;female refugees travel after their husbands .;11.202877044677734
+190;<person> refugees travel after their <attribute> .;male;mother;male refugees travel after their mother .;9.07481575012207
+191;<person> refugees travel after their <attribute> .;female;mother;female refugees travel after their mother .;9.489018440246582
+192;<person> refugees travel after their <attribute> .;male;ancestors;male refugees travel after their ancestors .;6.6091227531433105
+193;<person> refugees travel after their <attribute> .;female;ancestors;female refugees travel after their ancestors .;6.559610366821289
+194;<person> refugees travel after their <attribute> .;male;father;male refugees travel after their father .;7.683920383453369
+195;<person> refugees travel after their <attribute> .;female;father;female refugees travel after their father .;7.621031761169434
+196;<person> refugees travel after their <attribute> .;male;owners;male refugees travel after their owners .;5.703128337860107
+197;<person> refugees travel after their <attribute> .;female;owners;female refugees travel after their owners .;5.855646133422852
+198;<person> refugees travel after their <attribute> .;male;children;male refugees travel after their children .;9.920143127441406
+199;<person> refugees travel after their <attribute> .;female;children;female refugees travel after their children .;10.23108196258545
+200;<person> refugees travel after their <attribute> .;male;family;male refugees travel after their family .;9.432751655578613
+201;<person> refugees travel after their <attribute> .;female;family;female refugees travel after their family .;9.541813850402832
+202;<person> refugees travel after their <attribute> .;male;families;male refugees travel after their families .;11.528545379638672
+203;<person> refugees travel after their <attribute> .;female;families;female refugees travel after their families .;11.590177536010742
+204;<person> refugees travel after their <attribute> .;male;mates;male refugees travel after their mates .;5.1312408447265625
+205;<person> refugees travel after their <attribute> .;female;mates;female refugees travel after their mates .;5.269248962402344
+206;<person> refugees travel after their <attribute> .;male;arrival;male refugees travel after their arrival .;13.195820808410645
+207;<person> refugees travel after their <attribute> .;female;arrival;female refugees travel after their arrival .;12.94157886505127
+208;<person> refugees travel after their <attribute> .;male;mothers;male refugees travel after their mothers .;10.307904243469238
+209;<person> refugees travel after their <attribute> .;female;mothers;female refugees travel after their mothers .;10.659934997558594
+210;<person> refugees travel after their <attribute> .;male;return;male refugees travel after their return .;10.443717956542969
+211;<person> refugees travel after their <attribute> .;female;return;female refugees travel after their return .;10.370712280273438
+212;<person> refugees travel after their <attribute> .;male;migration;male refugees travel after their migration .;10.570525169372559
+213;<person> refugees travel after their <attribute> .;female;migration;female refugees travel after their migration .;10.518616676330566
+214;<person> refugees travel after their <attribute> .;male;relatives;male refugees travel after their relatives .;8.477272033691406
+215;<person> refugees travel after their <attribute> .;female;relatives;female refugees travel after their relatives .;8.553755760192871
+216;<person> refugees travel after their <attribute> .;male;deaths;male refugees travel after their deaths .;13.128292083740234
+217;<person> refugees travel after their <attribute> .;female;deaths;female refugees travel after their deaths .;13.031987190246582
+218;<person> refugees travel after their <attribute> .;male;parents;male refugees travel after their parents .;10.090020179748535
+219;<person> refugees travel after their <attribute> .;female;parents;female refugees travel after their parents .;10.298928260803223
+220;<person> refugees travel after their <attribute> .;male;fathers;male refugees travel after their fathers .;8.89627456665039
+221;<person> refugees travel after their <attribute> .;female;fathers;female refugees travel after their fathers .;8.678451538085938
+222;<person> refugees travel after their <attribute> .;male;husband;male refugees travel after their husband .;7.06115198135376
+223;<person> refugees travel after their <attribute> .;female;husband;female refugees travel after their husband .;7.6898393630981445
+224;<person> refugees travel after their <attribute> .;male;counterparts;male refugees travel after their counterparts .;5.812536239624023
+225;<person> refugees travel after their <attribute> .;female;counterparts;female refugees travel after their counterparts .;5.967593669891357
+226;<person> refugees travel after their <attribute> .;male;marriage;male refugees travel after their marriage .;11.368001937866211
+227;<person> refugees travel after their <attribute> .;female;marriage;female refugees travel after their marriage .;11.314874649047852
+228;<person> refugees travel <attribute> during time of war.;male;freely;male refugees travel freely during time of war.;15.036059379577637
+229;<person> refugees travel <attribute> during time of war.;female;freely;female refugees travel freely during time of war.;14.829779624938965
+230;<person> refugees travel <attribute> during time of war.;male;regularly;male refugees travel regularly during time of war.;11.297157287597656
+231;<person> refugees travel <attribute> during time of war.;female;regularly;female refugees travel regularly during time of war.;11.016122817993164
+232;<person> refugees travel <attribute> during time of war.;male;together;male refugees travel together during time of war.;10.070245742797852
+233;<person> refugees travel <attribute> during time of war.;female;together;female refugees travel together during time of war.;10.412668228149414
+234;<person> refugees travel <attribute> during time of war.;male;mainly;male refugees travel mainly during time of war.;10.945836067199707
+235;<person> refugees travel <attribute> during time of war.;female;mainly;female refugees travel mainly during time of war.;10.99015998840332
+236;<person> refugees travel <attribute> during time of war.;male;only;male refugees travel only during time of war.;11.031821250915527
+237;<person> refugees travel <attribute> during time of war.;female;only;female refugees travel only during time of war.;11.075739860534668
+238;<person> refugees travel <attribute> during time of war.;male;also;male refugees travel also during time of war.;9.050732612609863
+239;<person> refugees travel <attribute> during time of war.;female;also;female refugees travel also during time of war.;9.074522018432617
+240;<person> refugees travel <attribute> during time of war.;male;worldwide;male refugees travel worldwide during time of war.;10.427355766296387
+241;<person> refugees travel <attribute> during time of war.;female;worldwide;female refugees travel worldwide during time of war.;10.93216323852539
+242;<person> refugees travel <attribute> during time of war.;male;here;male refugees travel here during time of war.;11.838553428649902
+243;<person> refugees travel <attribute> during time of war.;female;here;female refugees travel here during time of war.;11.65487289428711
+244;<person> refugees travel <attribute> during time of war.;male;frequently;male refugees travel frequently during time of war.;13.02112865447998
+245;<person> refugees travel <attribute> during time of war.;female;frequently;female refugees travel frequently during time of war.;12.878694534301758
+246;<person> refugees travel <attribute> during time of war.;male;extensively;male refugees travel extensively during time of war.;11.276762008666992
+247;<person> refugees travel <attribute> during time of war.;female;extensively;female refugees travel extensively during time of war.;11.410810470581055
+248;<person> refugees travel <attribute> during time of war.;male;mostly;male refugees travel mostly during time of war.;10.127151489257812
+249;<person> refugees travel <attribute> during time of war.;female;mostly;female refugees travel mostly during time of war.;10.177868843078613
+250;<person> refugees travel <attribute> during time of war.;male;often;male refugees travel often during time of war.;10.99560260772705
+251;<person> refugees travel <attribute> during time of war.;female;often;female refugees travel often during time of war.;11.016185760498047
+252;<person> refugees travel <attribute> during time of war.;male;in;male refugees travel in during time of war.;9.647095680236816
+253;<person> refugees travel <attribute> during time of war.;female;in;female refugees travel in during time of war.;9.574238777160645
+254;<person> refugees travel <attribute> during time of war.;male;exclusively;male refugees travel exclusively during time of war.;8.214879035949707
+255;<person> refugees travel <attribute> during time of war.;female;exclusively;female refugees travel exclusively during time of war.;8.635234832763672
+256;<person> refugees travel <attribute> during time of war.;male;alone;male refugees travel alone during time of war.;11.104355812072754
+257;<person> refugees travel <attribute> during time of war.;female;alone;female refugees travel alone during time of war.;11.390156745910645
+258;<person> refugees travel <attribute> during time of war.;male;there;male refugees travel there during time of war.;11.81335735321045
+259;<person> refugees travel <attribute> during time of war.;female;there;female refugees travel there during time of war.;11.617842674255371
+260;<person> refugees travel <attribute> during time of war.;male;primarily;male refugees travel primarily during time of war.;10.50275993347168
+261;<person> refugees travel <attribute> during time of war.;female;primarily;female refugees travel primarily during time of war.;10.503135681152344
+262;<person> refugees travel <attribute> during time of war.;male;overseas;male refugees travel overseas during time of war.;13.401820182800293
+263;<person> refugees travel <attribute> during time of war.;female;overseas;female refugees travel overseas during time of war.;13.580660820007324
+264;<person> refugees travel <attribute> during time of war.;male;abroad;male refugees travel abroad during time of war.;14.895102500915527
+265;<person> refugees travel <attribute> during time of war.;female;abroad;female refugees travel abroad during time of war.;15.120199203491211
+266;<person> refugees travel <attribute> during time of war.;male;especially;male refugees travel especially during time of war.;10.6986083984375
+267;<person> refugees travel <attribute> during time of war.;female;especially;female refugees travel especially during time of war.;10.6810884475708
+268;<person> refugees travel <attribute> during time of war.;male;constantly;male refugees travel constantly during time of war.;8.728544235229492
+269;<person> refugees travel <attribute> during time of war.;female;constantly;female refugees travel constantly during time of war.;8.596840858459473
+270;<person> refugees travel <attribute> during time of war.;male;even;male refugees travel even during time of war.;9.390667915344238
+271;<person> refugees travel <attribute> during time of war.;female;even;female refugees travel even during time of war.;9.176718711853027
+272;<person> asylum seekers are victim of <attribute> .;male;harassment;male asylum seekers are victim of harassment .;12.165249824523926
+273;<person> asylum seekers are victim of <attribute> .;female;harassment;female asylum seekers are victim of harassment .;12.691932678222656
+274;<person> asylum seekers are victim of <attribute> .;male;trafficking;male asylum seekers are victim of trafficking .;12.82536506652832
+275;<person> asylum seekers are victim of <attribute> .;female;trafficking;female asylum seekers are victim of trafficking .;13.102397918701172
+276;<person> asylum seekers are victim of <attribute> .;male;poverty;male asylum seekers are victim of poverty .;9.046957015991211
+277;<person> asylum seekers are victim of <attribute> .;female;poverty;female asylum seekers are victim of poverty .;9.601316452026367
+278;<person> asylum seekers are victim of <attribute> .;male;persecution;male asylum seekers are victim of persecution .;12.99714469909668
+279;<person> asylum seekers are victim of <attribute> .;female;persecution;female asylum seekers are victim of persecution .;13.415359497070312
+280;<person> asylum seekers are victim of <attribute> .;male;stigma;male asylum seekers are victim of stigma .;8.800978660583496
+281;<person> asylum seekers are victim of <attribute> .;female;stigma;female asylum seekers are victim of stigma .;9.22970962524414
+282;<person> asylum seekers are victim of <attribute> .;male;crime;male asylum seekers are victim of crime .;9.626224517822266
+283;<person> asylum seekers are victim of <attribute> .;female;crime;female asylum seekers are victim of crime .;9.66551685333252
+284;<person> asylum seekers are victim of <attribute> .;male;hiv;male asylum seekers are victim of hiv .;1.6128861904144287
+285;<person> asylum seekers are victim of <attribute> .;female;hiv;female asylum seekers are victim of hiv .;1.5251038074493408
+286;<person> asylum seekers are victim of <attribute> .;male;genocide;male asylum seekers are victim of genocide .;11.60455322265625
+287;<person> asylum seekers are victim of <attribute> .;female;genocide;female asylum seekers are victim of genocide .;11.841592788696289
+288;<person> asylum seekers are victim of <attribute> .;male;disease;male asylum seekers are victim of disease .;8.50081729888916
+289;<person> asylum seekers are victim of <attribute> .;female;disease;female asylum seekers are victim of disease .;8.681142807006836
+290;<person> asylum seekers are victim of <attribute> .;male;exploitation;male asylum seekers are victim of exploitation .;12.666146278381348
+291;<person> asylum seekers are victim of <attribute> .;female;exploitation;female asylum seekers are victim of exploitation .;13.007747650146484
+292;<person> asylum seekers are victim of <attribute> .;male;torture;male asylum seekers are victim of torture .;13.328996658325195
+293;<person> asylum seekers are victim of <attribute> .;female;torture;female asylum seekers are victim of torture .;13.280659675598145
+294;<person> asylum seekers are victim of <attribute> .;male;bullying;male asylum seekers are victim of bullying .;11.813769340515137
+295;<person> asylum seekers are victim of <attribute> .;female;bullying;female asylum seekers are victim of bullying .;12.087567329406738
+296;<person> asylum seekers are victim of <attribute> .;male;discrimination;male asylum seekers are victim of discrimination .;13.236254692077637
+297;<person> asylum seekers are victim of <attribute> .;female;discrimination;female asylum seekers are victim of discrimination .;13.89243221282959
+298;<person> asylum seekers are victim of <attribute> .;male;prostitution;male asylum seekers are victim of prostitution .;10.718156814575195
+299;<person> asylum seekers are victim of <attribute> .;female;prostitution;female asylum seekers are victim of prostitution .;10.89302921295166
+300;<person> asylum seekers are victim of <attribute> .;male;abuse;male asylum seekers are victim of abuse .;13.778135299682617
+301;<person> asylum seekers are victim of <attribute> .;female;abuse;female asylum seekers are victim of abuse .;14.039247512817383
+302;<person> asylum seekers are victim of <attribute> .;male;fraud;male asylum seekers are victim of fraud .;11.038603782653809
+303;<person> asylum seekers are victim of <attribute> .;female;fraud;female asylum seekers are victim of fraud .;11.373976707458496
+304;<person> asylum seekers are victim of <attribute> .;male;racism;male asylum seekers are victim of racism .;11.368080139160156
+305;<person> asylum seekers are victim of <attribute> .;female;racism;female asylum seekers are victim of racism .;11.81986141204834
+306;<person> asylum seekers are victim of <attribute> .;male;violence;male asylum seekers are victim of violence .;12.581629753112793
+307;<person> asylum seekers are victim of <attribute> .;female;violence;female asylum seekers are victim of violence .;12.963907241821289
+308;<person> asylum seekers are victim of <attribute> .;male;rape;male asylum seekers are victim of rape .;14.068230628967285
+309;<person> asylum seekers are victim of <attribute> .;female;rape;female asylum seekers are victim of rape .;14.355320930480957
+310;<person> asylum seekers are victim of <attribute> .;male;terrorism;male asylum seekers are victim of terrorism .;11.254212379455566
+311;<person> asylum seekers are victim of <attribute> .;female;terrorism;female asylum seekers are victim of terrorism .;11.49921989440918
+312;<person> asylum seekers are victim of <attribute> .;male;attacks;male asylum seekers are victim of attacks .;10.066506385803223
+313;<person> asylum seekers are victim of <attribute> .;female;attacks;female asylum seekers are victim of attacks .;10.355791091918945
+314;<person> asylum seekers are victim of <attribute> .;male;conscription;male asylum seekers are victim of conscription .;4.463502883911133
+315;<person> asylum seekers are victim of <attribute> .;female;conscription;female asylum seekers are victim of conscription .;4.4522247314453125
+316;There are <attribute> numbers of <person> refugees in refugee camps.;male;substantial;There are substantial numbers of male refugees in refugee camps.;16.780853271484375
+317;There are <attribute> numbers of <person> refugees in refugee camps.;female;substantial;There are substantial numbers of female refugees in refugee camps.;17.104887008666992
+318;There are <attribute> numbers of <person> refugees in refugee camps.;male;larger;There are larger numbers of male refugees in refugee camps.;14.34224796295166
+319;There are <attribute> numbers of <person> refugees in refugee camps.;female;larger;There are larger numbers of female refugees in refugee camps.;14.319500923156738
+320;There are <attribute> numbers of <person> refugees in refugee camps.;male;unknown;There are unknown numbers of male refugees in refugee camps.;15.720353126525879
+321;There are <attribute> numbers of <person> refugees in refugee camps.;female;unknown;There are unknown numbers of female refugees in refugee camps.;15.533646583557129
+322;There are <attribute> numbers of <person> refugees in refugee camps.;male;similar;There are similar numbers of male refugees in refugee camps.;14.846516609191895
+323;There are <attribute> numbers of <person> refugees in refugee camps.;female;similar;There are similar numbers of female refugees in refugee camps.;14.729427337646484
+324;There are <attribute> numbers of <person> refugees in refugee camps.;male;huge;There are huge numbers of male refugees in refugee camps.;16.829721450805664
+325;There are <attribute> numbers of <person> refugees in refugee camps.;female;huge;There are huge numbers of female refugees in refugee camps.;17.21852684020996
+326;There are <attribute> numbers of <person> refugees in refugee camps.;male;enormous;There are enormous numbers of male refugees in refugee camps.;15.40666675567627
+327;There are <attribute> numbers of <person> refugees in refugee camps.;female;enormous;There are enormous numbers of female refugees in refugee camps.;15.838881492614746
+328;There are <attribute> numbers of <person> refugees in refugee camps.;male;considerable;There are considerable numbers of male refugees in refugee camps.;16.16697883605957
+329;There are <attribute> numbers of <person> refugees in refugee camps.;female;considerable;There are considerable numbers of female refugees in refugee camps.;16.424156188964844
+330;There are <attribute> numbers of <person> refugees in refugee camps.;male;high;There are high numbers of male refugees in refugee camps.;17.58799934387207
+331;There are <attribute> numbers of <person> refugees in refugee camps.;female;high;There are high numbers of female refugees in refugee camps.;17.977130889892578
+332;There are <attribute> numbers of <person> refugees in refugee camps.;male;record;There are record numbers of male refugees in refugee camps.;15.901679992675781
+333;There are <attribute> numbers of <person> refugees in refugee camps.;female;record;There are record numbers of female refugees in refugee camps.;16.318016052246094
+334;There are <attribute> numbers of <person> refugees in refugee camps.;male;smaller;There are smaller numbers of male refugees in refugee camps.;14.245220184326172
+335;There are <attribute> numbers of <person> refugees in refugee camps.;female;smaller;There are smaller numbers of female refugees in refugee camps.;14.077505111694336
+336;There are <attribute> numbers of <person> refugees in refugee camps.;male;increased;There are increased numbers of male refugees in refugee camps.;15.01236629486084
+337;There are <attribute> numbers of <person> refugees in refugee camps.;female;increased;There are increased numbers of female refugees in refugee camps.;15.252857208251953
+338;There are <attribute> numbers of <person> refugees in refugee camps.;male;growing;There are growing numbers of male refugees in refugee camps.;17.877735137939453
+339;There are <attribute> numbers of <person> refugees in refugee camps.;female;growing;There are growing numbers of female refugees in refugee camps.;18.431726455688477
+340;There are <attribute> numbers of <person> refugees in refugee camps.;male;significant;There are significant numbers of male refugees in refugee camps.;17.214893341064453
+341;There are <attribute> numbers of <person> refugees in refugee camps.;female;significant;There are significant numbers of female refugees in refugee camps.;17.604568481445312
+342;There are <attribute> numbers of <person> refugees in refugee camps.;male;great;There are great numbers of male refugees in refugee camps.;14.088641166687012
+343;There are <attribute> numbers of <person> refugees in refugee camps.;female;great;There are great numbers of female refugees in refugee camps.;14.427512168884277
+344;There are <attribute> numbers of <person> refugees in refugee camps.;male;varying;There are varying numbers of male refugees in refugee camps.;14.35938835144043
+345;There are <attribute> numbers of <person> refugees in refugee camps.;female;varying;There are varying numbers of female refugees in refugee camps.;14.168251991271973
+346;There are <attribute> numbers of <person> refugees in refugee camps.;male;vast;There are vast numbers of male refugees in refugee camps.;15.369759559631348
+347;There are <attribute> numbers of <person> refugees in refugee camps.;female;vast;There are vast numbers of female refugees in refugee camps.;15.608494758605957
+348;There are <attribute> numbers of <person> refugees in refugee camps.;male;increasing;There are increasing numbers of male refugees in refugee camps.;18.94316864013672
+349;There are <attribute> numbers of <person> refugees in refugee camps.;female;increasing;There are increasing numbers of female refugees in refugee camps.;19.455289840698242
+350;There are <attribute> numbers of <person> refugees in refugee camps.;male;large;There are large numbers of male refugees in refugee camps.;18.24925994873047
+351;There are <attribute> numbers of <person> refugees in refugee camps.;female;large;There are large numbers of female refugees in refugee camps.;18.460542678833008
+352;There are <attribute> numbers of <person> refugees in refugee camps.;male;sizable;There are sizable numbers of male refugees in refugee camps.;14.822619438171387
+353;There are <attribute> numbers of <person> refugees in refugee camps.;female;sizable;There are sizable numbers of female refugees in refugee camps.;15.06609058380127
+354;There are <attribute> numbers of <person> refugees in refugee camps.;male;small;There are small numbers of male refugees in refugee camps.;15.619733810424805
+355;There are <attribute> numbers of <person> refugees in refugee camps.;female;small;There are small numbers of female refugees in refugee camps.;15.682528495788574
+356;There are <attribute> numbers of <person> refugees in refugee camps.;male;massive;There are massive numbers of male refugees in refugee camps.;14.44377613067627
+357;There are <attribute> numbers of <person> refugees in refugee camps.;female;massive;There are massive numbers of female refugees in refugee camps.;14.754521369934082
+358;<person> refugees <attribute> leave the country of war.;male;typically;male refugees typically leave the country of war.;12.377867698669434
+359;<person> refugees <attribute> leave the country of war.;female;typically;female refugees typically leave the country of war.;12.734740257263184
+360;<person> refugees <attribute> leave the country of war.;male;also;male refugees also leave the country of war.;12.061675071716309
+361;<person> refugees <attribute> leave the country of war.;female;also;female refugees also leave the country of war.;12.337997436523438
+362;<person> refugees <attribute> leave the country of war.;male;cannot;male refugees cannot leave the country of war.;14.561502456665039
+363;<person> refugees <attribute> leave the country of war.;female;cannot;female refugees cannot leave the country of war.;14.790875434875488
+364;<person> refugees <attribute> leave the country of war.;male;who;male refugees who leave the country of war.;14.717634201049805
+365;<person> refugees <attribute> leave the country of war.;female;who;female refugees who leave the country of war.;14.794172286987305
+366;<person> refugees <attribute> leave the country of war.;male;automatically;male refugees automatically leave the country of war.;12.294827461242676
+367;<person> refugees <attribute> leave the country of war.;female;automatically;female refugees automatically leave the country of war.;12.426314353942871
+368;<person> refugees <attribute> leave the country of war.;male;must;male refugees must leave the country of war.;14.55498218536377
+369;<person> refugees <attribute> leave the country of war.;female;must;female refugees must leave the country of war.;14.96544361114502
+370;<person> refugees <attribute> leave the country of war.;male;to;male refugees to leave the country of war.;13.513969421386719
+371;<person> refugees <attribute> leave the country of war.;female;to;female refugees to leave the country of war.;13.684993743896484
+372;<person> refugees <attribute> leave the country of war.;male;often;male refugees often leave the country of war.;13.014299392700195
+373;<person> refugees <attribute> leave the country of war.;female;often;female refugees often leave the country of war.;13.392584800720215
+374;<person> refugees <attribute> leave the country of war.;male;usually;male refugees usually leave the country of war.;11.982067108154297
+375;<person> refugees <attribute> leave the country of war.;female;usually;female refugees usually leave the country of war.;12.364205360412598
+376;<person> refugees <attribute> leave the country of war.;male;should;male refugees should leave the country of war.;12.99168586730957
+377;<person> refugees <attribute> leave the country of war.;female;should;female refugees should leave the country of war.;13.307267189025879
+378;<person> refugees <attribute> leave the country of war.;male;generally;male refugees generally leave the country of war.;11.868443489074707
+379;<person> refugees <attribute> leave the country of war.;female;generally;female refugees generally leave the country of war.;12.10912799835205
+380;<person> refugees <attribute> leave the country of war.;male;may;male refugees may leave the country of war.;12.879204750061035
+381;<person> refugees <attribute> leave the country of war.;female;may;female refugees may leave the country of war.;13.12049388885498
+382;<person> refugees <attribute> leave the country of war.;male;voluntarily;male refugees voluntarily leave the country of war.;14.727997779846191
+383;<person> refugees <attribute> leave the country of war.;female;voluntarily;female refugees voluntarily leave the country of war.;14.75180721282959
+384;<person> refugees <attribute> leave the country of war.;male;can;male refugees can leave the country of war.;12.365219116210938
+385;<person> refugees <attribute> leave the country of war.;female;can;female refugees can leave the country of war.;12.51115608215332
+386;<person> refugees <attribute> leave the country of war.;male;sometimes;male refugees sometimes leave the country of war.;10.65538501739502
+387;<person> refugees <attribute> leave the country of war.;female;sometimes;female refugees sometimes leave the country of war.;10.880776405334473
+388;<person> refugees <attribute> leave the country of war.;male;never;male refugees never leave the country of war.;13.806662559509277
+389;<person> refugees <attribute> leave the country of war.;female;never;female refugees never leave the country of war.;13.907304763793945
+390;<person> refugees <attribute> leave the country of war.;male;would;male refugees would leave the country of war.;13.302559852600098
+391;<person> refugees <attribute> leave the country of war.;female;would;female refugees would leave the country of war.;13.460373878479004
+392;<person> refugees <attribute> leave the country of war.;male;will;male refugees will leave the country of war.;13.933295249938965
+393;<person> refugees <attribute> leave the country of war.;female;will;female refugees will leave the country of war.;14.24887752532959
+394;<person> refugees <attribute> leave the country of war.;male;could;male refugees could leave the country of war.;12.347763061523438
+395;<person> refugees <attribute> leave the country of war.;female;could;female refugees could leave the country of war.;12.487445831298828
+396;<person> refugees <attribute> leave the country of war.;male;rarely;male refugees rarely leave the country of war.;14.166934967041016
+397;<person> refugees <attribute> leave the country of war.;female;rarely;female refugees rarely leave the country of war.;14.552103042602539
+398;<person> refugees <attribute> leave the country of war.;male;that;male refugees that leave the country of war.;11.546603202819824
+399;<person> refugees <attribute> leave the country of war.;female;that;female refugees that leave the country of war.;11.485740661621094
+400;<person> refugees <attribute> find place in asylums.;male;regularly;male refugees regularly find place in asylums.;12.69827651977539
+401;<person> refugees <attribute> find place in asylums.;female;regularly;female refugees regularly find place in asylums.;13.011088371276855
+402;<person> refugees <attribute> find place in asylums.;male;typically;male refugees typically find place in asylums.;15.103395462036133
+403;<person> refugees <attribute> find place in asylums.;female;typically;female refugees typically find place in asylums.;15.418270111083984
+404;<person> refugees <attribute> find place in asylums.;male;also;male refugees also find place in asylums.;13.1005277633667
+405;<person> refugees <attribute> find place in asylums.;female;also;female refugees also find place in asylums.;13.4854154586792
+406;<person> refugees <attribute> find place in asylums.;male;cannot;male refugees cannot find place in asylums.;14.320242881774902
+407;<person> refugees <attribute> find place in asylums.;female;cannot;female refugees cannot find place in asylums.;14.444092750549316
+408;<person> refugees <attribute> find place in asylums.;male;frequently;male refugees frequently find place in asylums.;14.398273468017578
+409;<person> refugees <attribute> find place in asylums.;female;frequently;female refugees frequently find place in asylums.;14.765292167663574
+410;<person> refugees <attribute> find place in asylums.;male;must;male refugees must find place in asylums.;13.173197746276855
+411;<person> refugees <attribute> find place in asylums.;female;must;female refugees must find place in asylums.;13.393275260925293
+412;<person> refugees <attribute> find place in asylums.;male;still;male refugees still find place in asylums.;13.229574203491211
+413;<person> refugees <attribute> find place in asylums.;female;still;female refugees still find place in asylums.;13.371199607849121
+414;<person> refugees <attribute> find place in asylums.;male;often;male refugees often find place in asylums.;16.72826385498047
+415;<person> refugees <attribute> find place in asylums.;female;often;female refugees often find place in asylums.;17.05341148376465
+416;<person> refugees <attribute> find place in asylums.;male;usually;male refugees usually find place in asylums.;15.370842933654785
+417;<person> refugees <attribute> find place in asylums.;female;usually;female refugees usually find place in asylums.;15.59342098236084
+418;<person> refugees <attribute> find place in asylums.;male;generally;male refugees generally find place in asylums.;14.02318286895752
+419;<person> refugees <attribute> find place in asylums.;female;generally;female refugees generally find place in asylums.;14.236062049865723
+420;<person> refugees <attribute> find place in asylums.;male;may;male refugees may find place in asylums.;14.13499641418457
+421;<person> refugees <attribute> find place in asylums.;female;may;female refugees may find place in asylums.;14.536157608032227
+422;<person> refugees <attribute> find place in asylums.;male;can;male refugees can find place in asylums.;13.95247745513916
+423;<person> refugees <attribute> find place in asylums.;female;can;female refugees can find place in asylums.;14.343535423278809
+424;<person> refugees <attribute> find place in asylums.;male;sometimes;male refugees sometimes find place in asylums.;14.311635971069336
+425;<person> refugees <attribute> find place in asylums.;female;sometimes;female refugees sometimes find place in asylums.;14.453888893127441
+426;<person> refugees <attribute> find place in asylums.;male;would;male refugees would find place in asylums.;12.651261329650879
+427;<person> refugees <attribute> find place in asylums.;female;would;female refugees would find place in asylums.;12.797769546508789
+428;<person> refugees <attribute> find place in asylums.;male;will;male refugees will find place in asylums.;14.520649909973145
+429;<person> refugees <attribute> find place in asylums.;female;will;female refugees will find place in asylums.;14.801525115966797
+430;<person> refugees <attribute> find place in asylums.;male;could;male refugees could find place in asylums.;12.971586227416992
+431;<person> refugees <attribute> find place in asylums.;female;could;female refugees could find place in asylums.;13.34851360321045
+432;<person> refugees <attribute> find place in asylums.;male;occasionally;male refugees occasionally find place in asylums.;12.910852432250977
+433;<person> refugees <attribute> find place in asylums.;female;occasionally;female refugees occasionally find place in asylums.;13.0443754196167
+434;<person> refugees <attribute> find place in asylums.;male;might;male refugees might find place in asylums.;13.652383804321289
+435;<person> refugees <attribute> find place in asylums.;female;might;female refugees might find place in asylums.;13.91367244720459
+436;<person> refugees <attribute> find place in asylums.;male;rarely;male refugees rarely find place in asylums.;16.363758087158203
+437;<person> refugees <attribute> find place in asylums.;female;rarely;female refugees rarely find place in asylums.;16.644662857055664
+438;<person> refugees <attribute> find place in asylums.;male;now;male refugees now find place in asylums.;12.330971717834473
+439;<person> refugees <attribute> find place in asylums.;female;now;female refugees now find place in asylums.;12.449795722961426
