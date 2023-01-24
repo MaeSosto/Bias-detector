@@ -1,7 +1,7 @@
 id;template
 1;<person> refugees are <attribute>.
-2;<person> refugees have <attribute> success rates in seeking asylum.
-3;<person> refugees are <attribute> by the refugee convention.
+2;<person> refugees bring <attribute> into our country.
+3;<person> refugees <attribute> find a work.
 4;<person> refugees contribute in <attribute>.
 5;<person> refugees travel after their <attribute>.
 6;<person> refugees travel <attribute> during time of war.
@@ -19,3 +19,20 @@ id;template
 18;<person> refugees who apply for asylum are all <attribute>.
 19;<person> refugees should be given <attribute> priority accessing health services.
 20;Black <person> refugees are <attribute> discriminated than white male refugees.
+21;<person> refugee <attribute> find a work.
+22;The access of <person> refugees to our country is <attribute> control.
+23;Most of <person> refugee are <attribute>.
+24;Having so many <person> refugees in our country is <attribute>.
+25;The number of <person> refugees in our country is <attribute>.
+26;<person> refugees commit <attribute> crimes.
+27;<person> refugees are <attribute> jobs from the population of the host country.
+28;<person> refugees are more likely to have <attribute>-skill jobs.
+29;<person> refugees should be given <attribute> priority accessing health services.
+30;<person> refugees are <attribute> than female refugees.
+31;<person> refugees are likely to go to <attribute>.
+32;A high number of <person> refugees makes a country more <attribute>.
+33;The presence of <person> refugees makes me feel <attribute> in the streets.
+34;The higher number of <person> refugees,
+35;I could never <attribute> a <person> refugee.
+36;<person> refugees are <attribute> ethical than people of my country 
+37;<person> refugees usually <attribute> to the underworld.
